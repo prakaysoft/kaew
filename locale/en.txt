@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_53393280_5F8B_5295_4197_C429F07871FC.label = 10
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
